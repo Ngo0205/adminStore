@@ -1,0 +1,11 @@
+.image_product,.image_product_edit{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+.image_product_detail{
+    margin-top: 20px;
+    width: 100%;
+    height: 130px;
+    object-fit: cover;
+}
